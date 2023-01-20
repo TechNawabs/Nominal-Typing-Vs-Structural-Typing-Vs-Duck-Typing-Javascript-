@@ -16,9 +16,15 @@ Duck Typing
 
 
 🚂 Website: 
+
 💡 GitHub: https://github.com/TechNawabs
+
 💬 Discord: https://discord.gg/hTB9mytw
+
 🖋️ Twitter: https://twitter.com/TechNawabs
+
 📸 Instagram: https://www.instagram.com/technawabs/
+
 ✍️ Medium: https://medium.com/technawabs/
+
 🎓 Linkedin: https://www.linkedin.com/company/technawabs
