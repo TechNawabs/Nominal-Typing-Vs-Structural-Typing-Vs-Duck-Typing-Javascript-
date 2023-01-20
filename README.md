@@ -1,21 +1,27 @@
 # Nominal-Typing-Vs-Structural-Typing-Vs-Duck-Typing-Javascript-
 
+
 Nominal Typing Vs Structural Typing Vs Duck Typing
+
 
 A type system could be nominal, structural, or duck typed. A type could be of primitive types like a string, int, boolean, object, or class.
 
+
 Nominal Typing
+
 
 Structural Typing
 
+
 Duck Typing
+
 
 
 
 📁 Code Repository: https://github.com/TechNawabs/Nominal-Typing-Vs-Structural-Typing-Vs-Duck-Typing-Javascript-
 
 
-🚂 Website: 
+🚂 Website: https://technawabz.blogspot.com/
 
 💡 GitHub: https://github.com/TechNawabs
 
