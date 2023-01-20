@@ -21,16 +21,23 @@ Duck Typing
 📁 Code Repository: https://github.com/TechNawabs/Nominal-Typing-Vs-Structural-Typing-Vs-Duck-Typing-Javascript-
 
 
+
 🚂 Website: https://technawabz.blogspot.com/
+
 
 💡 GitHub: https://github.com/TechNawabs
 
+
 💬 Discord: https://discord.gg/hTB9mytw
+
 
 🖋️ Twitter: https://twitter.com/TechNawabs
 
+
 📸 Instagram: https://www.instagram.com/technawabs/
 
+
 ✍️ Medium: https://medium.com/technawabs/
+
 
 🎓 Linkedin: https://www.linkedin.com/company/technawabs
